@@ -1,9 +1,9 @@
 {
-	"name": "nanasess/mdb2_driver_mysqli",
+	"name": "br-solutions/mdb2_driver_mysqli",
 	"description": "This is the Mysqli MDB2 driver.",
 	"type": "library",
 	"keywords": [ "database", "mdb2", "pear", "mysqli" ],
-	"homepage": "https://github.com/nanasess/MDB2_Driver_mysqli",
+	"homepage": "https://github.com/br-solutions/mdb2_driver_mysqli",
 	"license": "BSD-2-Clause",
 	"authors": [
 		{
